@@ -1,0 +1,1 @@
+- 理解werkzeug.security中generate_password_hash算法的原理
